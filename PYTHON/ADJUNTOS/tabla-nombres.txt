@@ -1,0 +1,4 @@
+Nombre	Apellidos	Edad	Mascotas
+Sara	Martinez Gómez	25	Tom
+Jorge	García Delgado	3	Coco
+Carmen	Sainz Palmaro	25	Ninguna
